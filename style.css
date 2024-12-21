@@ -1195,7 +1195,7 @@ header{
 .footer-phone__s2{
     display: flex;
     position: absolute;
-    top: 50%;
+    top: 46%;
     left: 5%;
     gap: 10px;
     font-weight: bold;
