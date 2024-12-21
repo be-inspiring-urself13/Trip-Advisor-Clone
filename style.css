@@ -1417,11 +1417,16 @@ header{
       }
 
       .footer-phone__s2{
-        top: 50%;
+        top: 45%;
       }
 
       .phone-icons-s1{
         bottom: 20%;
+        right: 3%;
         font-size: 20px;
+      }
+
+      .footer-phone__s4{
+        font-size: small;
       }
     } 
