@@ -1300,10 +1300,12 @@ header{
             height: 50px;
         }
 
-        
+        .footer-phone__s1 p{
+        margin-top: 10px;
+        }
 
         .footer-phone__s4{
-           font-size: xx-small
+           font-size: xx-small;
         }
 
         .phone-icons-s1{
