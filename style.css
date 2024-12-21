@@ -1417,7 +1417,8 @@ header{
       }
 
       .footer-phone__s2{
-        top: 45%;
+        font-size: small;
+        top: 50%;
       }
 
       .phone-icons-s1{
@@ -1427,6 +1428,6 @@ header{
       }
 
       .footer-phone__s4{
-        font-size: small;
+        font-size: xx-small;
       }
     } 
