@@ -1195,7 +1195,7 @@ header{
 .footer-phone__s2{
     display: flex;
     position: absolute;
-    top: 52%;
+    top: 50%;
     left: 5%;
     gap: 8px;
     font-weight: bold;
@@ -1314,7 +1314,7 @@ header{
 
         .phone-icons-s1{
             right: 3%;
-            border: 13%;
+            bottom: 13%;
         }
 
     }
